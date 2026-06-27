@@ -1,6 +1,6 @@
 ## Hi, I'm Terry Dougan
 
-I'm a VP-level produc and technology executive with a background in software engineering, database administration, product operations, technology program management and cross-functional planning. I've spent most of my career building and leading teams that turn strategy into shipped outcomes — and the work below reflects some of the things I find most interesting about that translation problem.
+I'm a VP-level product and technology executive with a background in software engineering, database administration, product operations, technology program management and cross-functional planning. I've spent most of my career building and leading teams that turn strategy into shipped outcomes — and the work below reflects some of the things I find most interesting about that translation problem.
 
 ### What's in this profile
 
